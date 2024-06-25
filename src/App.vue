@@ -1,20 +1,17 @@
 <!-- src/App.vue -->
 <template>
- 
-    <DatosRut />
-  
+  <DatosRut />
 </template>
 
 <script>
-import DatosRut from './components/DatosRut.vue';
+import DatosRut from "./components/DatosRut.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    DatosRut
-  }
+    DatosRut,
+  },
 };
 </script>
 
-<style>
-</style>
+<style></style>

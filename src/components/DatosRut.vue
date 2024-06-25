@@ -19,7 +19,7 @@
       <section>
         <article>
           <header>APELLIDOS</header>
-          <span>{{ Apellidos }}</span>
+          <span>{{ apellidos }}</span>
         </article>
 
         <article>
