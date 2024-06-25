@@ -1,8 +1,8 @@
 <!-- src/App.vue -->
 <template>
-  <div id="app">
+ 
     <DatosRut />
-  </div>
+  
 </template>
 
 <script>
