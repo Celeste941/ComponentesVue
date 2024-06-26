@@ -23,7 +23,7 @@ Es el componente principal de la aplicación. Este componente importa y utiliza 
 Este componente es responsable de mostrar los datos de una cédula de identidad ficticia. Incluye información como el nombre, apellido, nacionalidad, sexo, fecha de nacimiento, número de documento, fecha de emisión, fecha de vencimiento y la firma del titular.
 
 ## Estilos
-Los estilos están definidos dentro del archivo DatosRut.vue y están encapsulados utilizando la directiva scoped para asegurar que no haya conflictos con otros componentes.
+Los estilos están definidos dentro del archivo DatosRut.
 
 ## Configuración del Proyecto
 -Instalación de Dependencias  
